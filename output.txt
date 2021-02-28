@@ -1,0 +1,170 @@
+[anilprajapati@parrot]─[~/college/java/project]
+└──╼ $java sgn_main_login
+			 WELLCOME TO SGN COLLEGE
+
+
+
+
+enter a number
+(1)  for login as student 
+(2)  for login as instructor 
+(4)  for view  time table
+(10) for exit from Aplication
+1
+		################################################
+		#             LOGIN PAGE for student           #
+		################################################
+enter id : 
+
+
+103
+enter password : 
+
+3
+student id is :			103
+student name is :		anil prajapati ritaben
+student sem is :		5
+student branch is :		CS
+student phone number is :	134578765
+student e_mail is :		@gmail.com
+student address is :		add
+
+
+password is correct 
+
+
+enter 1 for see your time table
+1
+		################################################
+		#             TIME TABLE                       #
+		################################################
+
+
+                        time table (sem 5)
+time            monday      tuesday     wedenday    thursday    friday
+7:25 to 8:20    A.E.M       A.E.M       D.S.        LAB         LAB
+8:20 to 9:15    O.O.P       O.O.P       D.S.        LAB         LAB
+9:30 to 10:15   LAB         LAB         D.S.        LAB         LAB
+10:15 to 11:05  D.B.M.S     LAB         D.S.        LAB         LAB
+11:30 to 12:45  LAB         LAB         D.S.        LAB         LAB
+12:45 to 1:10   D.S.        LAB         D.S.        LAB         LAB
+
+
+enter a number
+(1)  for login as student 
+(2)  for login as instructor 
+(4)  for view  time table
+(10) for exit from Aplication
+2
+				################################################
+				#         LOGIN PAGE FOR INSTRUCTOR            #
+				################################################
+enter instructor id : 
+
+113
+enter password : 
+
+3
+instructor name is :			anil prajapati ritaben
+instructor id is :			113
+instructor phone number is :		134578765
+instructor subject teaching is :	oop
+instructor email_id is :		@gmail.com
+instructor address is :			add
+instructor teaching in sem  :		5
+
+
+password is correct 
+
+
+enter 1 for see your time table
+enter 2 for see student details
+1
+		################################################
+		#             TIME TABLE                       #
+		################################################
+
+
+                        time table (sem 5)
+time            monday      tuesday     wedenday    thursday    friday
+7:25 to 8:20    A.E.M       A.E.M       D.S.        LAB         LAB
+8:20 to 9:15    O.O.P       O.O.P       D.S.        LAB         LAB
+9:30 to 10:15   LAB         LAB         D.S.        LAB         LAB
+10:15 to 11:05  D.B.M.S     LAB         D.S.        LAB         LAB
+11:30 to 12:45  LAB         LAB         D.S.        LAB         LAB
+12:45 to 1:10   D.S.        LAB         D.S.        LAB         LAB
+password incorrect
+
+
+enter a number
+(1)  for login as student 
+(2)  for login as instructor 
+(4)  for view  time table
+(10) for exit from Aplication
+4
+enter sem for viewing time table:
+5
+		################################################
+		#             TIME TABLE                       #
+		################################################
+
+
+                        time table (sem 5)
+time            monday      tuesday     wedenday    thursday    friday
+7:25 to 8:20    A.E.M       A.E.M       D.S.        LAB         LAB
+8:20 to 9:15    O.O.P       O.O.P       D.S.        LAB         LAB
+9:30 to 10:15   LAB         LAB         D.S.        LAB         LAB
+10:15 to 11:05  D.B.M.S     LAB         D.S.        LAB         LAB
+11:30 to 12:45  LAB         LAB         D.S.        LAB         LAB
+12:45 to 1:10   D.S.        LAB         D.S.        LAB         LAB
+
+
+enter a number
+(1)  for login as student 
+(2)  for login as instructor 
+(4)  for view  time table
+(10) for exit from Aplication
+2
+				################################################
+				#         LOGIN PAGE FOR INSTRUCTOR            #
+				################################################
+enter instructor id : 
+
+113
+enter password : 
+
+3
+instructor name is :			anil prajapati ritaben
+instructor id is :			113
+instructor phone number is :		134578765
+instructor subject teaching is :	oop
+instructor email_id is :		@gmail.com
+instructor address is :			add
+instructor teaching in sem  :		5
+
+
+password is correct 
+
+
+enter 1 for see your time table
+enter 2 for see student details
+2
+enter student id :
+104
+student id is :			104
+student name is :		prajapati
+student sem is :		7
+student branch is :		CS
+student phone number is :	134578765
+student e_mail is :		@gmail.com
+student address is :		add
+password incorrect
+
+
+enter a number
+(1)  for login as student 
+(2)  for login as instructor 
+(4)  for view  time table
+(10) for exit from Aplication
+10
+
